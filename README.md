@@ -113,7 +113,7 @@ Evidence
 The new sales outcome can become another retained experience, allowing the memory layer to continue accumulating deal knowledge.
 
 Architecture
-<img width="2939" height="465" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/2fc1f5d8-693d-4dfb-999f-d8efec46817d" />
+<img width="2939" height="465" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/2b3ff935-5dc1-47a3-a63d-eb2e9029fcc3" />
 
 Architecture Responsibilities
 Layer	Responsibility
